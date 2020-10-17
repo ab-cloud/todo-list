@@ -1,0 +1,27 @@
+li {
+    background-color: gold;
+}
+
+li:nth-of-type(2n) {
+background-color: goldenrod;
+}
+
+li:hover {
+    background-color: red;
+}
+
+li:nth-of-type(2n):hover {
+    background-color: darkred;
+}
+
+body {
+    background-color: steelblue;
+}
+
+h1 {
+    color: white;
+}
+
+label {
+    color: white;
+}
